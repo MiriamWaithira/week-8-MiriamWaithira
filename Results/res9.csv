@@ -1,0 +1,7 @@
+region,student_gender,reason_for_dropout,total_dropouts
+Marginalized,Male,Poverty,1
+Marginalized,Female,"Early Marriage",3
+Rural,Male,"Change of Interest",1
+Rural,Female,"Death of Parent",1
+Urban,Male,"Change of Interest",1
+Urban,Female,Poverty,1

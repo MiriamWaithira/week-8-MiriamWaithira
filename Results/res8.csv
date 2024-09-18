@@ -1,0 +1,7 @@
+region,reason_for_dropout,total_dropouts
+Marginalized,"Early Marriage",3
+Marginalized,Poverty,1
+Rural,"Death of Parent",1
+Rural,"Change of Interest",1
+Urban,"Change of Interest",1
+Urban,Poverty,1
